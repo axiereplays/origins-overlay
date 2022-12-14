@@ -1,0 +1,58 @@
+.container {
+  display: grid;
+  grid-auto-flow: row dense;
+  grid-template-columns: 250px 1fr 250px;
+  grid-template-rows: 140px 1fr 125px;
+  gap: 0px 0px;
+  grid-template-areas:
+    "header header header"
+    /* "subheader subheader subheader" */
+    "left center right"
+    "footer footer footer";
+  justify-content: stretch;
+  align-content: stretch;
+  align-items: stretch;
+  width: 100%;
+  height: 100%;
+}
+
+.header {
+  /* background: url(/navbar.png) no-repeat center center;
+    background-size: 100% 100%; */
+  grid-area: header;
+  padding: 5px 20px;
+  text-align: center;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subheader {
+  /* background-color: aquamarine; */
+  grid-area: subheader;
+}
+
+.left {
+  background-color: blue;
+  grid-area: left;
+}
+
+.right {
+  background-color: green;
+  grid-area: right;
+}
+
+.center {
+  grid-area: center;
+}
+
+.footer {
+  grid-area: footer;
+  padding: 5px 20px;
+  text-align: center;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
