@@ -10,6 +10,11 @@ module.exports = {
         hostname: 'cdn.axieinfinity.com',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'storage.googleapis.com',
+        pathname: '/**',
+      },
     ],
   },
 

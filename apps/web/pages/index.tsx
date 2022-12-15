@@ -1,7 +1,8 @@
+import { useEffect, useState } from 'react';
 import { BattleTitle, Cardset } from 'ui';
 import styles from './index.module.css';
 
-const battle = {
+const DEMO_BATTLE_DATA = {
   battle_uuid: '507c0e8e-25d3-4a05-a718-9dd77d4f61ac',
   client_ids: [
     '1ec9eb73-5f16-66bc-a60c-2ee170fbe517',
@@ -98,6 +99,19 @@ const battle = {
 };
 
 export default function Web() {
+  const [battle, setBattle] = useState<null | typeof DEMO_BATTLE_DATA>(null);
+
+  // TODO: fetch battle data from API, using battleUUID from URL
+  useEffect(() => {
+    // const fetchBattle = async (battleUUID:string) => {
+    //   const response = await fetch(`https://ronin.rest/origin/battleLog/${battleUUID}`);
+    //   const json = await response.json();
+    //   setBattle(json);
+    // }
+    // fetchBattle('0x8b1b8b1b8b1b8b1b8b1b8b1b8b1b8b1b8b1b8b1b8b1b8b1b8b1b8b1b8b1b8b1b');
+    setBattle(DEMO_BATTLE_DATA);
+  }, []);
+
   return (
     <div className={styles.container}>
       <div className={styles.header}>
@@ -107,15 +121,15 @@ export default function Web() {
             fontWeight: 600,
           }}
         >
-          <BattleTitle battleUUID={battle.battle_uuid} />
+          {battle && (<BattleTitle battleUUID={battle.battle_uuid} />)}
         </h2>
       </div>
       {/* <div className={styles.subheader}></div> */}
       <div className={styles.left}>
-        <Cardset fighters={battle.first_client_fighters} />
+        {battle && (<Cardset fighters={battle.first_client_fighters} />)}
       </div>
       <div className={styles.right}>
-        <Cardset fighters={battle.second_client_fighters} />
+        {battle && (<Cardset fighters={battle.second_client_fighters} />)}
       </div>
       {/* <div className={styles.center}></div> */}
       <div className={styles.footer}>

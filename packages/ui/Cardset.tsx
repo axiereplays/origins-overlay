@@ -2,9 +2,33 @@ import * as React from 'react';
 import { AxieMixer } from '@axieinfinity/mixer';
 import Image from 'next/image';
 import { useEffect } from 'react';
+// import { getClassColor } from './utils';
+import runesData from "./runes.json";
+import charmsData from "./charms.json";
+import cardsData from "./cards.json";
 
-export const Cardset = (props: {
-  fighters: {
+interface IAxieFigtherCards {
+  axie_id: number;
+  combo: Map<string, string>;
+  rune: string;
+  cards: {
+    id: number;
+    charm: string;
+    name: string;
+    class: string;
+    part: string;
+    // url: string;
+    // description?: string;
+    // energy?: number;
+    // attack?: number;
+    // defense?: number;
+    // healing?: number;
+    // abilityType?: string;
+    // level?: 1,
+    // tags?: string[],
+  }[];
+}
+interface IFigthersProps {
     gene: string;
     axie_id: number;
     axie_type: string;
@@ -17,25 +41,60 @@ export const Cardset = (props: {
       back: string;
       tail: string;
     };
-  }[];
-}) => {
-  // parse genes
-  // const axieGene512 = props.fighters[0].gene
-  // const mixer = new AxieMixer(axieGene512, undefined, true)
-  // const assets2 = mixer.getAvatarLayers()
-  // console.log(props)
+}
 
+export const Cardset = (props: { fighters: IFigthersProps[] }) => {
+  const [fighters, setFighters] = React.useState<IAxieFigtherCards[]>([]);
   useEffect(() => {
-    for (let i = 0; i < props.fighters.length; i++) {
-      const axieGene512 = props.fighters[i].gene;
+    // an array of 3 fighters / axies
+    const fighters = props.fighters.map((fighter) => {
+      const axieGene512 = fighter.gene;
       const mixer = new AxieMixer(axieGene512, undefined, true);
-      const assets2 = mixer.getAvatarLayers();
-      console.log(assets2);
-    }
-  }, [props.fighters]);
+      const combo = mixer.adultCombo;
+      // Map(10) {'body' => 'body-fuzzy', 'body-class' => 'beast', 'back' => 'beast-02', 'ears' => 'beast-12', 'ear' => 'beast-12', …}
+      // console.log(combo?.get('eyes'))
+
+      const runes = runesData["_items"]
+      const cards = cardsData["_items"]
+      const charms = charmsData["_items"]
+
+      return {
+        axie_id: fighter.axie_id,
+        combo,
+        rune: `${runes.find((rune) => rune.item.id === fighter.runes[0])?.item.imageUrl}`,
+        cards: Object.keys(fighter.charms).map((part) => {
+          const partValue = combo.get(part)?.split('-')[1]
+          const partClass = combo.get(part)?.split('-')[0]
+          console.log(partClass)
+          const card = cards.find((card) => card.partValue === Number(partValue) && card.partClass.toLocaleLowerCase() === partClass)
+
+          if (card === undefined) {
+            throw new Error(`Card not found for ${partClass} ${part} ${partValue}`)
+          }
+
+          return {
+            id: partValue,
+            // id: card.id,
+            charm: `${charms.find((charm) => charm.item.id === fighter.charms.eyes)?.item.imageUrl}`,
+            name: card.name,
+            part: part,
+            class: partClass
+            // description: card.description,
+            // energy: card.energy,
+            // attack: card.attack,
+            // defense: card.defense,
+            // healing: card.healing,
+            // abilityType: card.abilityType,
+            // level: card.level,
+            // tags: card.tags,
+          }
+        })
+      }
+    });
+    setFighters(fighters);
+  }, [props.fighters, setFighters]);
 
   return (
-    <>
       <div
         style={{
           display: 'flex',
@@ -44,51 +103,131 @@ export const Cardset = (props: {
           alignItems: 'center',
           width: '100%',
           height: '100%',
-          background: 'black',
+          // background: 'black',
           listStyle: 'none',
           padding: 0,
           margin: 0,
         }}
       >
-        {props.fighters.map((fighter, index) => {
+      {fighters.length > 0 && fighters.map((fighter, index) => {
           return (
             <div
               style={{
-                background: 'aqua',
-                opacity: 0.5,
-                paddingBottom: '20px',
+                // TODO: background by axie type
+                // background: 'aqua', 
+                paddingBottom: '25px',
+                // paddingTop: '20px',
                 width: '100%',
-                // height: '33%',
+                height: '33.34%',
+                position: 'relative',
+                zIndex: index + 1,
+                // marginTop: '-20px',
+                boxSizing: 'border-box',
               }}
               key={`fighter-${index}`}
             >
-              {/* <h4>Axie #{fighter.axie_id}</h4> */}
-              {Object.keys(fighter.charms).map((key) => {
+              <div
+                style={{
+                  position: 'absolute',
+                  top: '0px',
+                  right: '0px',
+                  margin: '0px',
+                  width: '163px',
+                  background: 'rgba(244, 239, 215, 0.8)',
+                  paddingBottom: '30px',
+                  paddingRight: '8px',
+                  boxSizing: 'border-box',
+                  fontSize: '0.9rem',
+                  textAlign: 'right',
+                  display: 'flex',
+                  justifyContent: 'space-between',
+                  paddingLeft: '25px',
+                  // height: '60px',
+                  paddingTop: '2px',
+                  alignItems: 'center',
+                }}
+              >
+                {/* Axie ID */}
+                <span
+                  style={{
+                    lineHeight: '1',
+                    fontSize: '1rem',
+                  }}
+                >#{fighter.axie_id}</span>
+
+                {/* Class */}
+                <Image
+                  src={`https://cdn.axieinfinity.com/marketplace-website/asset-icon/class/${fighter.combo.get('body-class')}.png`}
+                  width={20}
+                  height={20}
+                  alt={fighter.combo.get('body-class') ?? ''}
+                />
+                {/* Rune */}
+                <Image
+                  src={fighter.rune}
+                  width={20}
+                  height={20}
+                  alt={'rune'}
+                />
+
+              </div>
+              {/* todo: add figther rune */}
+              <div
+                style={{
+
+                  height: '100%',
+                  width: '100%',
+                }}
+              >
+                {fighter.cards.map((card, key) => {
                 return (
                   <div
                     style={{
-                      background: 'blue',
-                      opacity: 0.5,
+                      // background: 'blue',
+                      // opacity: 0.5,
                       width: '100%',
-                      overflow: 'hidden',
-                      height: '20%',
+                      overflow: 'visible',
+                      height: '16.67%',
+                      position: 'relative',
+                      zIndex: key,
+                      // background: `url(https://cdn.axieinfinity.com/game/origin-cards/base/origin-cards-20220928/reptile-eyes-08.png) no-repeat scroll 0 0 transparent`,
+                      // backgroundSize: '200px 310px'
                     }}
                     key={`fighter-${index}-card-${key}`}
                   >
                     <Image
                       alt="reptile"
-                      src="https://cdn.axieinfinity.com/game/origin-cards/base/origin-cards-20220928/reptile-eyes-08.png"
-                      width={456}
-                      height={706}
-                      style={{ objectFit: 'cover' }}
+                      src={`https://cdn.axieinfinity.com/game/origin-cards/base/origin-cards-20221213/${card.class}-${card.part}-${card.id}-00.png`}
+                      width={200}
+                      height={310}
+                      style={{
+                        // width: '100%',
+                        // height: 'auto',
+                        marginTop: '-1px',
+                      }}
                     />
+
+                    {card.charm !== 'undefined' && (
+                      <Image
+                        style={{
+                          position: 'absolute',
+                          top: '0px',
+                          right: '0px',
+
+                        }}
+                        src={card.charm}
+                        width={60}
+                        height={60}
+                        alt={'charm'} />
+                    )}
+
                   </div>
                 );
               })}
             </div>
+            </div>
           );
         })}
-      </div>
-    </>
+    </div >
   );
 };
