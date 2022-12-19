@@ -59,7 +59,7 @@ function BattlePage(props: { battle: IBattleData | null }) {
             fontWeight: 600,
           }}
         >
-          {battle && <BattleTitle battleUUID={battle.battle_uuid} />}
+          {/* {battle && <BattleTitle battleUUID={battle.battle_uuid} />} */}
         </h2>
       </div>
       {/* <div className={styles.subheader}></div> */}
@@ -71,7 +71,7 @@ function BattlePage(props: { battle: IBattleData | null }) {
       </div>
       {/* <div className={styles.center}></div> */}
       <div className={styles.footer}>
-        <h3
+        {/* <h3
           style={{
             fontSize: '1.5rem',
             fontWeight: 600,
@@ -81,7 +81,7 @@ function BattlePage(props: { battle: IBattleData | null }) {
           iure sint, exercitationem temporibus perspiciatis ipsam culpa quam
           voluptates iusto vel omnis pariatur quasi earum necessitatibus facere
           quae iste! Perspiciatis.
-        </h3>
+        </h3> */}
       </div>
     </div>
   );
@@ -95,6 +95,7 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps(context: any) {
+  console.log(context.params.bid);
   try {
     const client = new Client({
       user: process.env.PGUSER,

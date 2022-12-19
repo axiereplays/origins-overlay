@@ -34,13 +34,13 @@
 }
 
 .left {
-  background-color: blue;
+  /* background-color: blue; */
   grid-area: left;
   overflow: hidden;
 }
 
 .right {
-  background-color: green;
+  /* background-color: green; */
   grid-area: right;
   overflow: hidden;
 }
