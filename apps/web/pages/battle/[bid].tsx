@@ -1,30 +1,10 @@
+/* eslint-disable turbo/no-undeclared-env-vars */
 import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
 import { BattleTitle, Cardset } from 'ui';
 import { Client } from 'pg';
 import styles from './battle.module.css';
-
-interface IFighter {
-  gene: string;
-  axie_id: number;
-  axie_type: string;
-  runes: string[];
-  charms: {
-    eyes: string;
-    mouth: string;
-    ears: string;
-    horn: string;
-    back: string;
-    tail: string;
-  };
-}
-
-interface IBattleData {
-  battle_uuid: string;
-  client_ids: string[];
-  first_client_fighters: IFighter[];
-  second_client_fighters: IFighter[];
-}
+import { IBattleData } from '../../interfaces';
 
 function BattlePage(props: { battle: IBattleData | null }) {
   const [battle, setBattle] = useState<null | IBattleData>(null);
@@ -59,14 +39,16 @@ function BattlePage(props: { battle: IBattleData | null }) {
             fontWeight: 600,
           }}
         >
-          {/* {battle && <BattleTitle battleUUID={battle.battle_uuid} />} */}
+          {battle && <BattleTitle battleUUID={battle.battle_uuid} />}
         </h2>
       </div>
       {/* <div className={styles.subheader}></div> */}
       <div className={styles.left}>
+        {/* TODO: fix wrong side sometimes */}
         {battle && <Cardset fighters={battle.first_client_fighters} />}
       </div>
       <div className={styles.right}>
+        {/* TODO: fix wrong side sometimes */}
         {battle && <Cardset fighters={battle.second_client_fighters} />}
       </div>
       {/* <div className={styles.center}></div> */}

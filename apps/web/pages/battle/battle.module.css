@@ -2,7 +2,7 @@
   display: grid;
   grid-auto-flow: row dense;
   grid-template-columns: 200px 1fr 200px;
-    grid-template-rows: 200px 1fr 200px;
+    grid-template-rows: 130px 1fr 130px;
   gap: 0px 0px;
   grid-template-areas:
     "left header right"
