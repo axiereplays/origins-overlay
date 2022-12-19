@@ -12,11 +12,12 @@ interface IAxieFigtherCards {
   combo: Map<string, string>;
   rune: string;
   cards: {
-    id: number;
+    id?: number,
+    partId: string;
     charm: string;
     name: string;
-    class: string;
     part: string;
+    class: string;
     // url: string;
     // description?: string;
     // energy?: number;
@@ -63,19 +64,19 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
         combo,
         rune: `${runes.find((rune) => rune.item.id === fighter.runes[0])?.item.imageUrl}`,
         cards: Object.keys(fighter.charms).map((part) => {
-          const partValue = combo.get(part)?.split('-')[1]
-          const partClass = combo.get(part)?.split('-')[0]
-          console.log(partClass)
-          const card = cards.find((card) => card.partValue === Number(partValue) && card.partClass.toLocaleLowerCase() === partClass)
+          const partValue = combo.get(part)?.split('-')[1] ?? ''
+          const partClass = combo.get(part)?.split('-')[0] ?? ''
+          // console.log(partClass)
+
+          const card = cards.find((card) => card.partValue === Number(partValue) && card.partClass.toLocaleLowerCase() === partClass && card.partType.toLocaleLowerCase() === part)
 
           if (card === undefined) {
             throw new Error(`Card not found for ${partClass} ${part} ${partValue}`)
           }
 
           return {
-            id: partValue,
-            // id: card.id,
-            charm: `${charms.find((charm) => charm.item.id === fighter.charms.eyes)?.item.imageUrl}`,
+            partId: partValue,
+            charm: charms.find((charm) => charm.item.id === fighter.charms[part as keyof typeof fighter.charms])?.item.imageUrl ?? '',
             name: card.name,
             part: part,
             class: partClass
@@ -195,9 +196,10 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                     }}
                     key={`fighter-${index}-card-${key}`}
                   >
+                    {/* todo: move to background */}
                     <Image
-                      alt="reptile"
-                      src={`https://cdn.axieinfinity.com/game/origin-cards/base/origin-cards-20221213/${card.class}-${card.part}-${card.id}-00.png`}
+                      alt={`${card.class}-${card.part}-${card.id}`}
+                      src={`https://cdn.axieinfinity.com/game/origin-cards/base/origin-cards-20221213/${card.class}-${card.part}-${card.partId}-00.png`}
                       width={200}
                       height={310}
                       style={{
@@ -207,17 +209,33 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                       }}
                     />
 
-                    {card.charm !== 'undefined' && (
+                    {/* card name */}
+                    <span
+                      style={{
+                        position: 'absolute',
+                        top: '39px',
+                        left: '60px',
+                        margin: '0px',
+                        // width: '100%',
+                        display: 'block',
+                        // paddingRight: '30px',
+                        paddingTop: '10px',
+                        fontSize: '1.1rem',
+                        // background: 'rgba(244, 239, 215, 0.8)',
+                      }}
+                    >{card.name}</span>
+
+                    {card.charm !== '' && (
                       <Image
                         style={{
                           position: 'absolute',
-                          top: '0px',
-                          right: '0px',
+                          top: '41px',
+                          right: '8px',
 
                         }}
                         src={card.charm}
-                        width={60}
-                        height={60}
+                        width={30}
+                        height={30}
                         alt={'charm'} />
                     )}
 
