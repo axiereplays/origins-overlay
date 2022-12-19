@@ -1,37 +1,37 @@
 export function getClassColor(axieClassName: string) {
-  let color = '#000000'
+  let color = '#000000';
   switch (axieClassName.toLowerCase()) {
     case 'beast':
-      color = '#fdb014'
-      break
+      color = '#fdb014';
+      break;
     case 'bug':
-      color = '#ff433e'
-      break
+      color = '#ff433e';
+      break;
     case 'bird':
-      color = '#fa59a0'
-      break
+      color = '#fa59a0';
+      break;
     case 'plant':
-      color = '#afdb1b'
-      break
+      color = '#afdb1b';
+      break;
     case 'aquatic':
-      color = '#00f5f8'
-      break
+      color = '#00f5f8';
+      break;
     case 'reptile':
-      color = '#9967fb'
-      break
+      color = '#9967fb';
+      break;
     case 'dusk':
-      color = '#29fae'
-      break
+      color = '#29fae';
+      break;
     case 'dawn':
-      color = '#7183e3'
-      break
+      color = '#7183e3';
+      break;
     case 'mech':
-      color = '#71898e'
-      break
+      color = '#71898e';
+      break;
     default:
-      color = '#ffffff'
-      break
+      color = '#ffffff';
+      break;
   }
 
-  return color
+  return color;
 }
