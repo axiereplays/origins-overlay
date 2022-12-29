@@ -11,6 +11,7 @@ function BattlePage(props: { battle: IBattleData | null }) {
 
   useEffect(() => {
     setBattle(props.battle);
+    console.log(props.battle);
   }, [props.battle]);
 
   if (battle === null) {

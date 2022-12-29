@@ -182,10 +182,10 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                   height={20}
                   alt={fighter.combo.get('body-class') ?? ''}
                 />
+
                 {/* Rune */}
-                <Image src={fighter.rune} width={20} height={20} alt={'rune'} />
+                {/* <Image src={fighter.rune} width={20} height={20} alt={'rune'} /> */}
               </div>
-              {/* todo: add figther rune */}
               <div
                 style={{
                   height: '100%',
@@ -211,7 +211,7 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                       {/* todo: move to background */}
                       <Image
                         alt={`${card.class}-${card.part}-${card.id}`}
-                        src={`https://cdn.axieinfinity.com/game/origin-cards/base/origin-cards-20221213/${card.class}-${card.part}-${card.partId}-00.png`}
+                        src={`https://cdn.axieinfinity.com/game/origin-cards/base/origin-cards-20221228/${card.class}-${card.part}-${card.partId}-00.png`}
                         width={200}
                         height={310}
                         style={{
@@ -239,7 +239,8 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                         {card.name}
                       </span>
 
-                      {card.charm !== '' && (
+                      {/* charm */}
+                      {/* {card.charm !== '' && (
                         <Image
                           style={{
                             position: 'absolute',
@@ -251,7 +252,7 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                           height={30}
                           alt={'charm'}
                         />
-                      )}
+                      )} */}
                     </div>
                   );
                 })}
