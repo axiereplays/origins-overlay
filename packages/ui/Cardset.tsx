@@ -168,6 +168,8 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                   style={{
                     lineHeight: '1',
                     fontSize: '1rem',
+                    fontWeight: 'bold',
+                    color: '#000',
                   }}
                 >
                   #{fighter.axie_id}
@@ -225,15 +227,21 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                       <span
                         style={{
                           position: 'absolute',
-                          top: '39px',
+                          top: '45px',
                           left: '60px',
                           margin: '0px',
                           // width: '100%',
                           display: 'block',
                           // paddingRight: '30px',
                           paddingTop: '10px',
-                          fontSize: '1.1rem',
-                          // background: 'rgba(244, 239, 215, 0.8)',
+                          fontSize: '1rem',
+                          fontWeight: 'bold',
+                          lineHeight: '1',
+                          padding: '4px 4px',
+                          color: '#000',
+                          background: 'rgba(244, 239, 215, 0.8)',
+                          borderRadius: '15px',
+                          // overflow: 'hidden',
                         }}
                       >
                         {card.name}
