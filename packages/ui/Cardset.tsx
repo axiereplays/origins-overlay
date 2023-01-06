@@ -186,7 +186,7 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                 />
 
                 {/* Rune */}
-                {/* <Image src={fighter.rune} width={20} height={20} alt={'rune'} /> */}
+                <Image src={fighter.rune} width={20} height={20} alt={'rune'} />
               </div>
               <div
                 style={{
@@ -248,7 +248,7 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                       </span>
 
                       {/* charm */}
-                      {/* {card.charm !== '' && (
+                      {card.charm !== '' && (
                         <Image
                           style={{
                             position: 'absolute',
@@ -260,7 +260,7 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                           height={30}
                           alt={'charm'}
                         />
-                      )} */}
+                      )}
                     </div>
                   );
                 })}

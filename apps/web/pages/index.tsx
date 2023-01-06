@@ -1,3 +1,9 @@
+import Link from "next/link";
+
 export default function Web() {
-  return <h3>Web</h3>;
+  return (
+    <Link href="/battle">
+      Go to battle
+    </Link>
+  );
 }
