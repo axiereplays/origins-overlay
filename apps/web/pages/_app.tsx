@@ -8,6 +8,7 @@ const roboto = Roboto_Slab({ subsets: ['latin'] });
 
 export default function MyApp({ Component, pageProps }: AppProps) {
   return (
+    // The font is applied to the main element
     <main className={roboto.className}>
       <Component {...pageProps} />
     </main>

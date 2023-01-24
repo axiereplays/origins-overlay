@@ -10,25 +10,16 @@ import cardsData from './cards.json';
 interface IAxieFigtherCards {
   axie_id: number;
   combo: Map<string, string>;
-  rune: string;
+  rune: string | null;
   cards: {
-    id?: number;
     partId: string;
-    charm: string;
+    charm: string | null;
     name: string;
     part: string;
     class: string;
-    // url: string;
-    // description?: string;
-    // energy?: number;
-    // attack?: number;
-    // defense?: number;
-    // healing?: number;
-    // abilityType?: string;
-    // level?: 1,
-    // tags?: string[],
   }[];
-}
+}[]
+
 interface IFigthersProps {
   gene: string;
   axie_id: number;
@@ -62,9 +53,8 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
       return {
         axie_id: fighter.axie_id,
         combo,
-        rune: `${
-          runes.find((rune) => rune.item.id === fighter.runes[0])?.item.imageUrl
-        }`,
+        rune: `${runes.find((rune) => rune.item.id === fighter.runes[0])?.item.imageUrl
+          }` || null,
         cards: Object.keys(fighter.charms).map((part) => {
           const partValue = combo.get(part)?.split('-')[1] ?? '';
           const partClass = combo.get(part)?.split('-')[0] ?? '';
@@ -90,7 +80,7 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                 (charm) =>
                   charm.item.id ===
                   fighter.charms[part as keyof typeof fighter.charms]
-              )?.item.imageUrl ?? '',
+              )?.item.imageUrl || null,
             name: card.name,
             part: part,
             class: partClass,
@@ -176,17 +166,17 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                 </span>
 
                 {/* Class */}
-                <Image
+                {/* <Image
                   src={`https://cdn.axieinfinity.com/marketplace-website/asset-icon/class/${fighter.combo.get(
                     'body-class'
                   )}.png`}
                   width={20}
                   height={20}
                   alt={fighter.combo.get('body-class') ?? ''}
-                />
+                /> */}
 
                 {/* Rune */}
-                <Image src={fighter.rune} width={20} height={20} alt={'rune'} />
+                {/* {fighter.rune && (<Image src={fighter.rune} width={20} height={20} alt={'rune'} />)} */}
               </div>
               <div
                 style={{
@@ -211,8 +201,8 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                       key={`fighter-${index}-card-${key}`}
                     >
                       {/* todo: move to background */}
-                      <Image
-                        alt={`${card.class}-${card.part}-${card.id}`}
+                      {/* <Image
+                        alt={`${card.class}-${card.part}-${card.partId}`}
                         src={`https://cdn.axieinfinity.com/game/origin-cards/base/origin-cards-20221228/${card.class}-${card.part}-${card.partId}-00.png`}
                         width={200}
                         height={310}
@@ -221,7 +211,7 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                           // height: 'auto',
                           marginTop: '-1px',
                         }}
-                      />
+                      /> */}
 
                       {/* card name */}
                       <span
@@ -248,7 +238,7 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                       </span>
 
                       {/* charm */}
-                      {card.charm !== '' && (
+                      {/* {card.charm && (
                         <Image
                           style={{
                             position: 'absolute',
@@ -260,7 +250,7 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                           height={30}
                           alt={'charm'}
                         />
-                      )}
+                      )} */}
                     </div>
                   );
                 })}
