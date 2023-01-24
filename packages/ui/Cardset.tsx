@@ -73,14 +73,13 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
             );
           }
 
+          const charmIndex = charms.findIndex(
+            (charm) => charm.item.id === fighter.charms[part as keyof typeof fighter.charms]
+          )
+
           return {
             partId: partValue,
-            charm:
-              charms.find(
-                (charm) =>
-                  charm.item.id ===
-                  fighter.charms[part as keyof typeof fighter.charms]
-              )?.item.imageUrl || null,
+            charm: charms[charmIndex]?.item.imageUrl || null,
             name: card.name,
             part: part,
             class: partClass,
@@ -166,17 +165,17 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                 </span>
 
                 {/* Class */}
-                {/* <Image
+                <Image
                   src={`https://cdn.axieinfinity.com/marketplace-website/asset-icon/class/${fighter.combo.get(
                     'body-class'
                   )}.png`}
                   width={20}
                   height={20}
                   alt={fighter.combo.get('body-class') ?? ''}
-                /> */}
+                />
 
                 {/* Rune */}
-                {/* {fighter.rune && (<Image src={fighter.rune} width={20} height={20} alt={'rune'} />)} */}
+                {fighter.rune && (<Image src={fighter.rune} width={20} height={20} alt={'rune'} />)}
               </div>
               <div
                 style={{
@@ -195,15 +194,15 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                         height: '16.67%',
                         position: 'relative',
                         zIndex: key,
-                        // background: `url(https://cdn.axieinfinity.com/game/origin-cards/base/origin-cards-20220928/reptile-eyes-08.png) no-repeat scroll 0 0 transparent`,
+                        // background: `url(https://cdn.axieinfinity.com/game/origin-cards/base/origin-cards-20230111/reptile-eyes-08.png) no-repeat scroll 0 0 transparent`,
                         // backgroundSize: '200px 310px'
                       }}
                       key={`fighter-${index}-card-${key}`}
                     >
                       {/* todo: move to background */}
-                      {/* <Image
+                      <Image
                         alt={`${card.class}-${card.part}-${card.partId}`}
-                        src={`https://cdn.axieinfinity.com/game/origin-cards/base/origin-cards-20221228/${card.class}-${card.part}-${card.partId}-00.png`}
+                        src={`https://cdn.axieinfinity.com/game/origin-cards/base/origin-cards-20230111/${card.class}-${card.part}-${card.partId}-00.png`}
                         width={200}
                         height={310}
                         style={{
@@ -211,7 +210,7 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                           // height: 'auto',
                           marginTop: '-1px',
                         }}
-                      /> */}
+                      />
 
                       {/* card name */}
                       <span
@@ -238,7 +237,7 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                       </span>
 
                       {/* charm */}
-                      {/* {card.charm && (
+                      {card.charm && (
                         <Image
                           style={{
                             position: 'absolute',
@@ -250,7 +249,7 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
                           height={30}
                           alt={'charm'}
                         />
-                      )} */}
+                      )}
                     </div>
                   );
                 })}
