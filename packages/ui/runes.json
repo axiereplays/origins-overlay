@@ -1,5 +1,5 @@
 {
-  "_etag": "eca500b19ae492626c523e6d36cc1ea5",
+  "_etag": "f1de8607fe8ffb0f2de947296e67a1ae",
 	"_items": [
 		{
       "rune": "reptile_4001_s1",
@@ -24,7 +24,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_1011_s2_nondec",
@@ -49,7 +49,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_4001_s0",
@@ -74,7 +74,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_2011_s2",
@@ -99,7 +99,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "dawn_3001_s0",
@@ -124,7 +124,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "beast_3010_s1",
@@ -149,7 +149,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_1010_s2_nondec",
@@ -174,7 +174,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "mech_2002_s0_nft",
@@ -199,7 +199,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "mech_4010_s1",
@@ -224,7 +224,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_2012_s2_nondec",
@@ -249,7 +249,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_2012_s2_nondec",
@@ -274,7 +274,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "dawn_4001_s1",
@@ -299,7 +299,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "reptile_3010_s1",
@@ -324,7 +324,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_3011_s2_nondec",
@@ -349,7 +349,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "dawn_2001_s0_nft",
@@ -374,7 +374,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_2010_s2_nft",
@@ -399,7 +399,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "neutral_1004_s0",
@@ -424,7 +424,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_4010_s2_nft",
@@ -449,7 +449,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_2010_s2_nft",
@@ -474,7 +474,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "neutral_1002_s0",
@@ -499,7 +499,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_2010_s2_nondec",
@@ -524,7 +524,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_2010_s2",
@@ -549,7 +549,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_2011_s2",
@@ -574,7 +574,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "dusk_2001_s1_nft",
@@ -599,7 +599,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_4010_s2_nondec",
@@ -624,7 +624,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "dawn_2010_s1",
@@ -649,7 +649,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "mech_2002_s1_nft",
@@ -674,7 +674,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_2012_s2",
@@ -699,7 +699,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "aquatic_2010_s1",
@@ -724,7 +724,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "beast_2002_s1_nft",
@@ -749,7 +749,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "neutral_2012_s1",
@@ -774,7 +774,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "dusk_3001_s1_nft",
@@ -799,7 +799,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "dawn_2001_s0",
@@ -824,7 +824,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_2012_s2_nondec",
@@ -849,7 +849,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "aquatic_4001_s1_nft",
@@ -874,7 +874,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "dawn_3010_s1",
@@ -899,7 +899,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_2010_s2",
@@ -924,7 +924,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dawn_2012_s2_nondec",
@@ -949,7 +949,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_4010_s2_nondec",
@@ -974,7 +974,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "neutral_2010_s1",
@@ -999,7 +999,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_2010_s2_nondec",
@@ -1024,7 +1024,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dawn_3011_s2",
@@ -1049,7 +1049,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_4010_s2_nondec",
@@ -1074,7 +1074,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_4010_s2",
@@ -1099,7 +1099,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_2001_s1",
@@ -1124,7 +1124,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "neutral_3010_s1",
@@ -1149,7 +1149,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "reptile_2002_s1_nft",
@@ -1174,7 +1174,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "aquatic_2001_s0_nft",
@@ -1199,7 +1199,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "bug_2001_s0",
@@ -1224,7 +1224,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_4001_s0",
@@ -1249,7 +1249,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_4010_s2_nft",
@@ -1274,7 +1274,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_utility_1",
@@ -1299,7 +1299,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_3010_s2_nondec",
@@ -1324,7 +1324,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_2001_s0_nft",
@@ -1349,7 +1349,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_offensive_1",
@@ -1374,7 +1374,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_2011_s2_nft",
@@ -1399,7 +1399,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_4010_s2_nft",
@@ -1424,7 +1424,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_2012_s1",
@@ -1449,7 +1449,7 @@
         "id": 2,
         "name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_3010_s2",
@@ -1474,7 +1474,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "mech_2012_s2_nft",
@@ -1499,7 +1499,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "bug_2002_s1_nft",
@@ -1524,7 +1524,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "dawn_offensive_1",
@@ -1549,7 +1549,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_4010_s2",
@@ -1574,7 +1574,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "beast_4001_s0_nft",
@@ -1599,7 +1599,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "plant_2002_s0",
@@ -1624,7 +1624,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_4010_s2_nft",
@@ -1649,7 +1649,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_utility_1",
@@ -1674,7 +1674,7 @@
         "id": 0,
         "name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_1011_s2",
@@ -1699,7 +1699,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_4010_s2_nft",
@@ -1724,7 +1724,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_2010_s2_nft",
@@ -1749,7 +1749,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "mech_3010_s1",
@@ -1774,7 +1774,7 @@
         "id": 2,
         "name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_2001_s1",
@@ -1799,7 +1799,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_3010_s2_nft",
@@ -1824,7 +1824,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_2011_s2_nft",
@@ -1849,7 +1849,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_2011_s2_nondec",
@@ -1874,7 +1874,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "reptile_2012_s1",
@@ -1899,7 +1899,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "dawn_4001_s0",
@@ -1924,7 +1924,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "reptile_4001_s1_nft",
@@ -1949,7 +1949,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_4010_s2",
@@ -1974,7 +1974,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_2011_s2_nondec",
@@ -1999,7 +1999,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_2001_s1",
@@ -2024,7 +2024,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "reptile_2001_s1",
@@ -2049,7 +2049,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_2011_s2_nft",
@@ -2074,7 +2074,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_3010_s2_nondec",
@@ -2099,7 +2099,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "dawn_3001_s0_nft",
@@ -2124,7 +2124,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "beast_2001_s1",
@@ -2149,7 +2149,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "bird_2002_s1_nft",
@@ -2174,7 +2174,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "plant_4001_s0_nft",
@@ -2199,7 +2199,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "bird_2001_s1",
@@ -2224,7 +2224,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "neutral_2002_s0_nft",
@@ -2249,7 +2249,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "beast_3001_s1_nft",
@@ -2274,7 +2274,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "neutral_offensive_1",
@@ -2296,7 +2296,7 @@
 				"imageUrl": "https://storage.googleapis.com/origin-production/assets/item/rune_neutral_offensive_1.png"
 			},
 			"season": null,
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "mech_3010_s2_nondec",
@@ -2321,7 +2321,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_3011_s2",
@@ -2346,7 +2346,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "bird_3001_s0",
@@ -2371,7 +2371,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "mech_2011_s1",
@@ -2396,7 +2396,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_2010_s2_nondec",
@@ -2421,7 +2421,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "beast_hybrid_1",
@@ -2446,7 +2446,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "beast_3001_s0_nft",
@@ -2471,7 +2471,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_3011_s2_nft",
@@ -2496,7 +2496,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "plant_2002_s1",
@@ -2521,7 +2521,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "beast_4010_s1",
@@ -2546,7 +2546,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "bug_3011_s1",
@@ -2571,7 +2571,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "bird_2010_s1",
@@ -2596,7 +2596,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "dusk_4001_s1",
@@ -2621,7 +2621,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "mech_4001_s0_nft",
@@ -2646,7 +2646,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "beast_offensive_1",
@@ -2671,7 +2671,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_2010_s2_nondec",
@@ -2696,7 +2696,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_3011_s2_nondec",
@@ -2721,7 +2721,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "bird_4001_s0",
@@ -2746,7 +2746,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_4010_s2_nondec",
@@ -2771,7 +2771,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "neutral_1012_s1",
@@ -2796,7 +2796,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "mech_4001_s0",
@@ -2821,7 +2821,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "plant_2012_s1",
@@ -2846,7 +2846,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_3011_s2_nondec",
@@ -2871,7 +2871,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "bird_3010_s1",
@@ -2896,7 +2896,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_2011_s2_nondec",
@@ -2921,7 +2921,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "neutral_4001_s0",
@@ -2946,7 +2946,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "mech_utility_1",
@@ -2971,7 +2971,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_3011_s2_nft",
@@ -2996,7 +2996,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_3011_s2_nondec",
@@ -3021,7 +3021,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "bug_2002_s0",
@@ -3046,7 +3046,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "dawn_utility_1",
@@ -3071,7 +3071,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_2010_s2",
@@ -3096,7 +3096,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_2012_s2_nft",
@@ -3121,7 +3121,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "dusk_defensive_1",
@@ -3146,7 +3146,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "beast_2001_s0",
@@ -3171,7 +3171,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_2011_s2_nft",
@@ -3196,7 +3196,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_2011_s2_nft",
@@ -3221,7 +3221,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "mech_defensive_1",
@@ -3246,7 +3246,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_hybrid_2",
@@ -3271,7 +3271,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_3001_s1_nft",
@@ -3296,7 +3296,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_hybrid_1",
@@ -3318,7 +3318,7 @@
         "imageUrl": "https://storage.googleapis.com/origin-production/assets/item/rune_neutral_hybrid_1.png"
       },
       "season": null,
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_4001_s1_nft",
@@ -3343,7 +3343,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_2001_s1",
@@ -3368,7 +3368,7 @@
         "id": 2,
         "name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dawn_2010_s2",
@@ -3393,7 +3393,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_3001_s1",
@@ -3418,7 +3418,7 @@
         "id": 2,
         "name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_2002_s1",
@@ -3443,7 +3443,7 @@
         "id": 2,
         "name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dawn_4010_s2_nft",
@@ -3468,7 +3468,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_2012_s2_nft",
@@ -3493,7 +3493,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_3001_s1",
@@ -3518,7 +3518,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_3010_s2_nondec",
@@ -3543,7 +3543,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_2010_s2_nft",
@@ -3568,7 +3568,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_utility_1",
@@ -3593,7 +3593,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_2011_s2_nondec",
@@ -3618,7 +3618,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_3001_s0",
@@ -3643,7 +3643,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_3010_s2_nondec",
@@ -3668,7 +3668,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_2002_s0_nft",
@@ -3693,7 +3693,7 @@
         "id": 1,
         "name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dawn_2012_s2_nft",
@@ -3718,7 +3718,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_2002_s1_nft",
@@ -3743,7 +3743,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_4001_s0",
@@ -3768,7 +3768,7 @@
         "id": 1,
         "name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dawn_2011_s2",
@@ -3793,7 +3793,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_3010_s2_nft",
@@ -3818,7 +3818,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_4010_s1",
@@ -3843,7 +3843,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_4010_s2",
@@ -3868,7 +3868,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_2001_s0",
@@ -3893,7 +3893,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "mech_3001_s0",
@@ -3918,7 +3918,7 @@
         "id": 1,
         "name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_4010_s2_nondec",
@@ -3943,7 +3943,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_2012_s2",
@@ -3968,7 +3968,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_3001_s1",
@@ -3993,7 +3993,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_3001_s1_nft",
@@ -4018,7 +4018,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_hybrid_1",
@@ -4043,7 +4043,7 @@
         "id": 0,
         "name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_offensive_1",
@@ -4068,7 +4068,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_2001_s0_nft",
@@ -4093,7 +4093,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_2012_s1",
@@ -4118,7 +4118,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_2001_s1_nft",
@@ -4143,7 +4143,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_2002_s1",
@@ -4168,7 +4168,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_2011_s1",
@@ -4193,7 +4193,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_4001_s1",
@@ -4218,7 +4218,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_3011_s1",
@@ -4243,7 +4243,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_2010_s2_nondec",
@@ -4268,7 +4268,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_2001_s0_nft",
@@ -4293,7 +4293,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_3001_s1",
@@ -4318,7 +4318,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_hybrid_1",
@@ -4343,7 +4343,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_offensive_1",
@@ -4368,7 +4368,7 @@
         "id": 0,
         "name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_offensive_1",
@@ -4393,7 +4393,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_utility_1",
@@ -4418,7 +4418,7 @@
         "id": 0,
         "name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_utility_1",
@@ -4443,7 +4443,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_3011_s2",
@@ -4468,7 +4468,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_2001_s0_nft",
@@ -4493,7 +4493,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_hybrid_1",
@@ -4518,7 +4518,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_3010_s2",
@@ -4543,7 +4543,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_4001_s1_nft",
@@ -4568,7 +4568,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_2011_s2_nft",
@@ -4593,7 +4593,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_4001_s1",
@@ -4618,7 +4618,7 @@
         "id": 2,
         "name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_2001_s1_nft",
@@ -4643,7 +4643,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_3011_s1",
@@ -4668,7 +4668,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_1011_s1",
@@ -4693,7 +4693,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_2001_s0",
@@ -4718,7 +4718,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_2011_s2",
@@ -4743,7 +4743,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_3001_s1_nft",
@@ -4768,7 +4768,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_2011_s2_nft",
@@ -4793,7 +4793,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_1013_s1",
@@ -4818,7 +4818,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_4010_s2_nondec",
@@ -4843,7 +4843,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_offensive_1",
@@ -4868,7 +4868,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_2012_s1",
@@ -4893,7 +4893,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_2011_s1",
@@ -4918,7 +4918,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_2010_s2_nondec",
@@ -4943,7 +4943,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_3001_s1_nft",
@@ -4968,7 +4968,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_3011_s2",
@@ -4993,7 +4993,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_2002_s0",
@@ -5018,7 +5018,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dawn_4010_s2_nondec",
@@ -5043,7 +5043,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_2001_s0_nft",
@@ -5068,7 +5068,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_2012_s1",
@@ -5093,7 +5093,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_2012_s1",
@@ -5118,7 +5118,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_4010_s2",
@@ -5143,7 +5143,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_defensive_2",
@@ -5168,7 +5168,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_3001_s1",
@@ -5193,7 +5193,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_4001_s1",
@@ -5218,7 +5218,7 @@
         "id": 2,
         "name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_2002_s1_nft",
@@ -5243,7 +5243,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_2002_s1",
@@ -5268,7 +5268,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_2002_s0",
@@ -5293,7 +5293,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_2012_s2_nondec",
@@ -5318,7 +5318,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_2010_s2",
@@ -5343,7 +5343,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_2012_s2_nft",
@@ -5368,7 +5368,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_3010_s2_nft",
@@ -5393,7 +5393,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_2012_s1",
@@ -5418,7 +5418,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_2002_s0_nft",
@@ -5443,7 +5443,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_4010_s2_nondec",
@@ -5468,7 +5468,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_2011_s2_nondec",
@@ -5493,7 +5493,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_3011_s2",
@@ -5518,7 +5518,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_utility_1",
@@ -5543,7 +5543,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_4001_s1",
@@ -5568,7 +5568,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_4001_s0",
@@ -5593,7 +5593,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dawn_2002_s1",
@@ -5618,7 +5618,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_2011_s2",
@@ -5643,7 +5643,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_4001_s0_nft",
@@ -5668,7 +5668,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_3001_s0",
@@ -5693,7 +5693,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_3010_s2",
@@ -5718,7 +5718,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_3011_s2_nondec",
@@ -5743,7 +5743,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_2010_s1",
@@ -5768,7 +5768,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_4010_s1",
@@ -5793,7 +5793,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_2002_s0",
@@ -5818,7 +5818,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_2012_s2_nondec",
@@ -5843,7 +5843,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_3010_s2_nft",
@@ -5868,7 +5868,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_4001_s1",
@@ -5893,7 +5893,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_2002_s1",
@@ -5918,7 +5918,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_3011_s2_nondec",
@@ -5943,7 +5943,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_3001_s1",
@@ -5968,7 +5968,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_3011_s2_nondec",
@@ -5993,7 +5993,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_2012_s2",
@@ -6018,7 +6018,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_offensive_2",
@@ -6043,7 +6043,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_2011_s2_nondec",
@@ -6068,7 +6068,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_3010_s2_nft",
@@ -6093,7 +6093,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_4010_s2_nondec",
@@ -6118,7 +6118,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_3001_s0_nft",
@@ -6143,7 +6143,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_2002_s0_nft",
@@ -6168,7 +6168,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_3010_s2",
@@ -6193,7 +6193,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_3011_s2_nft",
@@ -6218,7 +6218,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_2012_s2_nondec",
@@ -6243,7 +6243,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_3001_s1",
@@ -6268,7 +6268,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_4001_s1_nft",
@@ -6293,7 +6293,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_3001_s0_nft",
@@ -6318,7 +6318,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_2012_s2",
@@ -6343,7 +6343,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_2012_s2_nondec",
@@ -6368,7 +6368,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_3010_s2_nondec",
@@ -6393,7 +6393,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_defensive_1",
@@ -6418,7 +6418,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_4010_s2_nondec",
@@ -6443,7 +6443,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_2002_s1_nft",
@@ -6468,7 +6468,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_4010_s1",
@@ -6493,7 +6493,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_1010_s1",
@@ -6518,7 +6518,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_2012_s2",
@@ -6543,7 +6543,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_3001_s1",
@@ -6568,7 +6568,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_3001_s0",
@@ -6593,7 +6593,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_3001_s0_nft",
@@ -6618,7 +6618,7 @@
         "id": 1,
         "name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_3011_s2_nft",
@@ -6643,7 +6643,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_1013_s2_nondec",
@@ -6668,7 +6668,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_3001_s0_nft",
@@ -6693,7 +6693,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_2011_s2_nondec",
@@ -6718,7 +6718,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_4010_s2",
@@ -6743,7 +6743,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_4010_s2_nft",
@@ -6768,7 +6768,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_2001_s1",
@@ -6793,7 +6793,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_3011_s1",
@@ -6818,7 +6818,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_3001_s0_nft",
@@ -6843,7 +6843,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_3010_s2",
@@ -6868,7 +6868,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_2012_s2",
@@ -6893,7 +6893,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_3010_s1",
@@ -6918,7 +6918,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_2011_s2",
@@ -6943,7 +6943,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_3011_s2_nondec",
@@ -6968,7 +6968,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_hybrid_1",
@@ -6993,7 +6993,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_3001_s1_nft",
@@ -7018,7 +7018,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_1012_s2",
@@ -7043,7 +7043,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_2001_s0",
@@ -7068,7 +7068,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_defensive_1",
@@ -7093,7 +7093,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_4001_s0_nft",
@@ -7118,7 +7118,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_2012_s2_nft",
@@ -7143,7 +7143,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_utility_1",
@@ -7168,7 +7168,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_4010_s1",
@@ -7193,7 +7193,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_1001_s0",
@@ -7218,7 +7218,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_4001_s0_nft",
@@ -7243,7 +7243,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_3001_s1_nft",
@@ -7268,7 +7268,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dawn_2002_s1_nft",
@@ -7293,7 +7293,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_2010_s2_nondec",
@@ -7318,7 +7318,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_defensive_1",
@@ -7343,7 +7343,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_1001_s1",
@@ -7368,7 +7368,7 @@
         "id": 2,
         "name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "mech_3001_s1_nft",
@@ -7393,7 +7393,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_3011_s2_nft",
@@ -7418,7 +7418,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_2012_s2_nft",
@@ -7443,7 +7443,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_2010_s2_nft",
@@ -7468,7 +7468,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_2010_s1",
@@ -7493,7 +7493,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_2010_s2",
@@ -7518,7 +7518,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_2012_s2",
@@ -7543,7 +7543,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_4001_s0_nft",
@@ -7568,7 +7568,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_2010_s2_nondec",
@@ -7593,7 +7593,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_2012_s2_nondec",
@@ -7618,7 +7618,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_2010_s2",
@@ -7643,7 +7643,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_2002_s0_nft",
@@ -7668,7 +7668,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_2010_s2_nft",
@@ -7693,7 +7693,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_2012_s1",
@@ -7718,7 +7718,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_2002_s0",
@@ -7743,7 +7743,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_3011_s2",
@@ -7768,7 +7768,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_3010_s2_nondec",
@@ -7793,7 +7793,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_2001_s1_nft",
@@ -7818,7 +7818,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dawn_4010_s2",
@@ -7843,7 +7843,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_defensive_1",
@@ -7868,7 +7868,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_2011_s2",
@@ -7893,7 +7893,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "mech_3011_s2",
@@ -7918,7 +7918,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_3001_s0_nft",
@@ -7943,7 +7943,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_3010_s2_nondec",
@@ -7968,7 +7968,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_1003_s1",
@@ -7993,7 +7993,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_2001_s1_nft",
@@ -8018,7 +8018,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_3001_s0_nft",
@@ -8043,7 +8043,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_3011_s2",
@@ -8068,7 +8068,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_3010_s2_nft",
@@ -8093,7 +8093,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_1012_s2_nondec",
@@ -8118,7 +8118,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_3010_s2",
@@ -8143,7 +8143,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_utility_2",
@@ -8168,7 +8168,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_2002_s1",
@@ -8193,7 +8193,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_1010_s2",
@@ -8218,7 +8218,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_2001_s0",
@@ -8243,7 +8243,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_2002_s0_nft",
@@ -8268,7 +8268,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_4010_s1",
@@ -8293,7 +8293,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_2012_s2",
@@ -8318,7 +8318,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_4010_s2_nft",
@@ -8343,7 +8343,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_2001_s0_nft",
@@ -8368,7 +8368,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_2010_s2_nondec",
@@ -8393,7 +8393,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_2010_s2_nondec",
@@ -8418,7 +8418,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "mech_2010_s2_nft",
@@ -8443,7 +8443,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_2011_s2",
@@ -8468,7 +8468,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_2011_s2_nondec",
@@ -8493,7 +8493,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_2001_s0",
@@ -8518,7 +8518,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_3010_s1",
@@ -8543,7 +8543,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_2001_s1_nft",
@@ -8568,7 +8568,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_2011_s1",
@@ -8593,7 +8593,7 @@
         "id": 2,
         "name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_2010_s1",
@@ -8618,7 +8618,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_defensive_1",
@@ -8640,7 +8640,7 @@
         "imageUrl": "https://storage.googleapis.com/origin-production/assets/item/rune_neutral_defensive_1.png"
       },
       "season": null,
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_2001_s1_nft",
@@ -8665,7 +8665,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_3010_s1",
@@ -8690,7 +8690,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_3001_s0",
@@ -8715,7 +8715,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "mech_3011_s2_nft",
@@ -8740,7 +8740,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_2010_s1",
@@ -8765,7 +8765,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_4010_s2_nft",
@@ -8790,7 +8790,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "reptile_3010_s2_nondec",
@@ -8815,7 +8815,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_3001_s0",
@@ -8840,7 +8840,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_2002_s0",
@@ -8865,7 +8865,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_2001_s0_nft",
@@ -8890,7 +8890,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_2002_s0",
@@ -8915,7 +8915,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_3010_s2",
@@ -8940,7 +8940,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_1002_s1",
@@ -8965,7 +8965,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "mech_2011_s2_nft",
@@ -8990,7 +8990,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_2001_s0_nft",
@@ -9015,7 +9015,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_2001_s0",
@@ -9040,7 +9040,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_2012_s2_nondec",
@@ -9065,7 +9065,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_4001_s0",
@@ -9090,7 +9090,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_2002_s1_nft",
@@ -9115,7 +9115,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_defensive_1",
@@ -9140,7 +9140,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_2001_s0",
@@ -9165,7 +9165,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_3001_s0",
@@ -9190,7 +9190,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_2011_s1",
@@ -9215,7 +9215,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_4010_s1",
@@ -9240,7 +9240,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_defensive_1",
@@ -9265,7 +9265,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_2002_s0_nft",
@@ -9290,7 +9290,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_3011_s1",
@@ -9315,7 +9315,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_utility_1",
@@ -9337,7 +9337,7 @@
         "imageUrl": "https://storage.googleapis.com/origin-production/assets/item/rune_neutral_utility_1.png"
       },
       "season": null,
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_2002_s1",
@@ -9362,7 +9362,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_4001_s1_nft",
@@ -9387,7 +9387,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_hybrid_1",
@@ -9412,7 +9412,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "mech_2011_s2",
@@ -9437,7 +9437,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_3011_s1",
@@ -9462,7 +9462,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_2002_s0",
@@ -9487,7 +9487,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_4001_s0_nft",
@@ -9512,7 +9512,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_defensive_1",
@@ -9537,7 +9537,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "mech_4010_s2",
@@ -9562,7 +9562,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_2010_s1",
@@ -9587,7 +9587,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dawn_2011_s1",
@@ -9612,7 +9612,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_offensive_1",
@@ -9637,7 +9637,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_3011_s2_nft",
@@ -9662,7 +9662,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_2011_s2",
@@ -9687,7 +9687,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_4010_s2_nft",
@@ -9712,7 +9712,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_2001_s1_nft",
@@ -9737,7 +9737,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_3001_s0",
@@ -9762,7 +9762,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dusk_3011_s2_nft",
@@ -9787,7 +9787,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_3010_s2_nft",
@@ -9812,7 +9812,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_3011_s2_nondec",
@@ -9837,7 +9837,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_hybrid_1",
@@ -9862,7 +9862,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_2011_s1",
@@ -9887,7 +9887,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "plant_3011_s2_nondec",
@@ -9912,7 +9912,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_1004_s1",
@@ -9937,7 +9937,7 @@
         "id": 2,
         "name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "mech_2010_s1",
@@ -9962,7 +9962,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "dawn_3010_s2",
@@ -9987,7 +9987,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_4010_s1",
@@ -10012,7 +10012,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_2011_s1",
@@ -10037,7 +10037,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_2002_s1",
@@ -10062,7 +10062,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_4001_s0_nft",
@@ -10087,7 +10087,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_3010_s1",
@@ -10112,7 +10112,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_2011_s1",
@@ -10137,7 +10137,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_3010_s2_nft",
@@ -10162,7 +10162,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_2010_s2",
@@ -10187,7 +10187,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_3010_s2_nft",
@@ -10212,7 +10212,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_2011_s1",
@@ -10237,7 +10237,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_4001_s1_nft",
@@ -10262,7 +10262,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_3001_s0_nft",
@@ -10287,7 +10287,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "mech_2012_s2",
@@ -10312,7 +10312,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_4001_s1",
@@ -10337,7 +10337,7 @@
         "id": 2,
         "name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_3011_s1",
@@ -10362,7 +10362,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_2012_s2_nft",
@@ -10387,7 +10387,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_4010_s2",
@@ -10412,7 +10412,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_2010_s2_nft",
@@ -10437,7 +10437,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dusk_4001_s1_nft",
@@ -10462,7 +10462,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_4010_s1",
@@ -10487,7 +10487,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_2001_s1_nft",
@@ -10512,7 +10512,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_2012_s2_nft",
@@ -10537,7 +10537,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_4001_s1_nft",
@@ -10562,7 +10562,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_4001_s1_nft",
@@ -10587,7 +10587,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_hybrid_1",
@@ -10612,7 +10612,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_2010_s2_nft",
@@ -10637,7 +10637,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_2001_s1",
@@ -10662,7 +10662,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_4010_s2",
@@ -10687,7 +10687,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "dawn_3010_s2_nft",
@@ -10712,7 +10712,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "plant_2002_s0_nft",
@@ -10737,7 +10737,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_3011_s2_nft",
@@ -10762,7 +10762,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_offensive_1",
@@ -10787,7 +10787,7 @@
 				"id": 0,
 				"name": "Season Alpha"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_2011_s2_nondec",
@@ -10812,7 +10812,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_2001_s1_nft",
@@ -10837,7 +10837,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_3011_s2_nft",
@@ -10862,7 +10862,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_3010_s2",
@@ -10887,7 +10887,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_3001_s1_nft",
@@ -10912,7 +10912,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_2012_s2_nft",
@@ -10937,7 +10937,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_3001_s1",
@@ -10962,7 +10962,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_3001_s1",
@@ -10987,7 +10987,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_hybrid_1",
@@ -11012,7 +11012,7 @@
         "id": 0,
         "name": "Season Alpha"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_3010_s2_nondec",
@@ -11037,7 +11037,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_1013_s2",
@@ -11062,7 +11062,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bird_2002_s0",
@@ -11087,7 +11087,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_2002_s0_nft",
@@ -11112,7 +11112,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_3011_s1",
@@ -11137,7 +11137,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "beast_2010_s2_nft",
@@ -11162,7 +11162,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "neutral_1003_s0",
@@ -11187,7 +11187,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bug_2002_s1",
@@ -11212,7 +11212,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_2012_s2",
@@ -11237,7 +11237,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_2001_s1",
@@ -11262,7 +11262,7 @@
         "id": 2,
         "name": "Season 1"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_4001_s0",
@@ -11287,7 +11287,7 @@
 				"id": 1,
 				"name": "Season 0"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "mech_2010_s2",
@@ -11312,7 +11312,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_2011_s2_nft",
@@ -11337,7 +11337,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "aquatic_2011_s2_nondec",
@@ -11362,7 +11362,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "bird_2011_s2_nft",
@@ -11387,7 +11387,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "aquatic_3011_s1",
@@ -11412,7 +11412,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "reptile_4001_s0_nft",
@@ -11437,7 +11437,7 @@
         "id": 1,
         "name": "Season 0"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "reptile_3011_s1",
@@ -11462,7 +11462,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "mech_3010_s2",
@@ -11487,7 +11487,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
 			"rune": "plant_4001_s1",
@@ -11512,7 +11512,7 @@
 				"id": 2,
 				"name": "Season 1"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
     },
     {
       "rune": "neutral_3011_s2",
@@ -11537,7 +11537,7 @@
         "id": 3,
         "name": "Season 2"
       },
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "bug_2010_s2",
@@ -11562,7 +11562,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		},
 		{
       "rune": "beast_3011_s2",
@@ -11587,7 +11587,7 @@
         "id": 3,
         "name": "Season 2"
 			},
-      "_etag": "0ef79e42a46b3191e6d9bd11556497b3"
+      "_etag": "b9e217f7b9ea0ea9cc2c3062725a93cb"
 		}
 	],
 	"_metadata": {}
