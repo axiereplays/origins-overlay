@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
-import { BattleTitle, Cardset } from "ui";
-import styles from './battle.module.css';
+import { Cardset } from "../Cardset/Cardset";
+import styles from './Battle.module.css';
+import { BattleTitle } from "./BattleTitle";
 import { IBattleData } from "./interfaces";
 
 export default function BattleComponent(props: { battle: IBattleData | null }) {

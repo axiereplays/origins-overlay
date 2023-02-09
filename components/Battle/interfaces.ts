@@ -13,7 +13,6 @@ export interface IFighter {
   };
 }
 
-
 export interface IBattleData {
   battle_uuid: string;
   client_ids: string[];

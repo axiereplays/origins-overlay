@@ -1,7 +1,7 @@
 import { GetServerSideProps } from 'next';
-import BattleComponent from '../BattleComponent';
-import getBattle from '../getBattles';
-import { IBattleData } from '../interfaces';
+import BattleComponent from '../components/Battle/Battle';
+import getBattle from '../components/Battle/getBattles';
+import { IBattleData } from '../components/Battle/interfaces';
 
 export default function BattlePage(props: { battle: IBattleData | null }) {
   return (<BattleComponent battle={props.battle} />);

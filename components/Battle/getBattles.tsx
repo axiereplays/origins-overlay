@@ -1,21 +1,18 @@
-/* eslint-disable turbo/no-undeclared-env-vars */
 import { Client } from "pg";
 import { IGetBattleData } from "./interfaces";
 
 // get the battle from the db, return it as props for the BattleComponent
 export default async function getBattle(bid?: string) {
-  console.log(`getting battle ${bid}`);
+  console.log(`getting battle ${bid ? bid : 'latest'}`);
   try {
-
-
     const battle = await new Promise<IGetBattleData>(async (resolve, reject) => {
       console.log('creating client');
       const client = new Client({
-        user: process.env.PGUSER ?? 'postgres',
-        host: process.env.PGHOST ?? 'host.docker.internal',
-        database: process.env.PGDATABASE ?? 'stream',
-        password: process.env.PGPASSWORD ?? 'password',
-        port: +(process.env.PGPORT ?? 5432),
+        user: process.env.POSTGRES_USER,
+        host: process.env.POSTGRES_HOST,
+        database: process.env.POSTGRES_DB,
+        password: process.env.POSTGRES_PASSWORD,
+        port: +process.env.POSTGRES_PORT! ?? 5432,
         // statement_timeout: 1000
       })
 
@@ -30,7 +27,7 @@ export default async function getBattle(bid?: string) {
         if (err) {
           console.error('connection error', err.stack)
         } else {
-          console.log(`connected to db ${process.env.PGDATABASE}`);
+          // console.log(`connected to db ${process.env.PGDATABASE}`);
           const query = bid ? `SELECT * FROM battles WHERE "battle_uuid" = '${bid}'` : `SELECT * FROM battles WHERE "replayed" = '1' ORDER BY replayed_at DESC LIMIT 1`;
           client.query<IGetBattleData>(query,
             (err, res) => {
@@ -72,10 +69,11 @@ export default async function getBattle(bid?: string) {
     };
   } catch (error) {
     console.error(error);
-    return {
-      props: {
-        battle: null,
-      }
-    };
+  };
+
+  return {
+    props: {
+      battle: null,
+    }
   }
 }

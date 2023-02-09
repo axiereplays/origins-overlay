@@ -2,38 +2,13 @@ import * as React from 'react';
 import { AxieMixer } from '@axieinfinity/mixer';
 import Image from 'next/image';
 import { useEffect } from 'react';
-// import { getClassColor } from './utils';
 import runesData from './runes.json';
 import charmsData from './charms.json';
 import cardsData from './cards.json';
+// TODO: move inlined styles to a separate file
+import styles from './Cardset.module.css';
+import { IAxieFigtherCards, IFigthersProps } from './interfaces';
 
-interface IAxieFigtherCards {
-  axie_id: number;
-  combo: Map<string, string>;
-  rune: string | null;
-  cards: {
-    partId: string;
-    charm: string | null;
-    name: string;
-    part: string;
-    class: string;
-  }[];
-}[]
-
-interface IFigthersProps {
-  gene: string;
-  axie_id: number;
-  axie_type: string;
-  runes: string[];
-  charms: {
-    eyes: string;
-    mouth: string;
-    ears: string;
-    horn: string;
-    back: string;
-    tail: string;
-  };
-}
 
 export const Cardset = (props: { fighters: IFigthersProps[] }) => {
   const [fighters, setFighters] = React.useState<IAxieFigtherCards[]>([]);
