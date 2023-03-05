@@ -1,79 +1,71 @@
 import * as React from 'react';
-import { AxieMixer } from '@axieinfinity/mixer';
 import Image from 'next/image';
 import { useEffect } from 'react';
 import runesData from './runes.json';
 import charmsData from './charms.json';
 import cardsData from './cards.json';
 import styles from './Cardset.module.css';
-import { IAxieFigtherCards, IFigthersProps } from './interfaces';
+import { IAxieFighter } from '@/lib/interfaces';
+import { Fighter } from '@/../skymavis_apis';
 
-export const Cardset = (props: { fighters: IFigthersProps[] }) => {
-  const [fighters, setFighters] = React.useState<IAxieFigtherCards[]>([]);
+export const Cardset = (props: { fighters: Fighter[] }) => {
+  const [fighters, setFighters] = React.useState<IAxieFighter[]>([]);
+
   useEffect(() => {
     // an array of 3 fighters alias axies
     const fighters = props.fighters.map((fighter) => {
-      // TODO: move to scrapper script
-      const axieGene512 = fighter.gene;
-      const mixer = new AxieMixer(axieGene512, undefined, true);
-      const combo = mixer.adultCombo;
-      console.log(combo);
-      // Convert the Map object to a plain object
-      var plainObject = Object.fromEntries(combo);
 
-      // Convert the plain object to a JSON object
-      var jsonObject = JSON.stringify(plainObject);
-      console.log(jsonObject);
-      // Map(10) {'body' => 'body-fuzzy', 'body-class' => 'beast', 'back' => 'beast-02', 'ears' => 'beast-12', 'ear' => 'beast-12', …}
-      // console.log(combo?.get('eyes'))
+      const runesItems = runesData['_items'];
+      const cardsItems = cardsData['_items'];
+      const charmsItems = charmsData['_items'];
+      const { gene, charms } = fighter;
 
-      const runes = runesData['_items'];
-      const cards = cardsData['_items'];
-      const charms = charmsData['_items'];
+      const cards: IAxieFighter['cards'] = Object.keys(charms).map((part) => {
+        const partValue = gene[part as keyof typeof charms]?.split('-')[1] ?? 'unknown';
+        const partClass = gene[part as keyof typeof charms]?.split('-')[0] ?? 'unknown';
+        // console.log(partClass)
+
+        const card = cardsItems.find(
+          (card) =>
+            card.partValue === Number(partValue) &&
+            card.partClass.toLocaleLowerCase() === partClass &&
+            card.partType.toLocaleLowerCase() === part
+        );
+
+        if (card === undefined) {
+          console.log(`Card not found for ${partClass} ${part} ${partValue}`);
+        }
+
+        const charmIndex = charmsItems.findIndex(
+          (charm) => charm.item.id === charms[part as keyof typeof charms]
+        )
+
+        return {
+          partId: partValue,
+          charm: charmsItems[charmIndex]?.item.imageUrl || null,
+          name: card?.name || `${partClass} ${part}`,
+          part: part,
+          class: partClass,
+          // description: card.description,
+          // energy: card.energy,
+          // attack: card.attack,
+          // defense: card.defense,
+          // healing: card.healing,
+          // abilityType: card.abilityType,
+          // level: card.level,
+          // tags: card.tags,
+        };
+      })
+
+      const rune = runesItems.find((rune) => rune.item.id === fighter.runes[0])?.item.imageUrl || null
 
       return {
-        axie_id: fighter.axie_id,
-        combo,
-        rune: `${runes.find((rune) => rune.item.id === fighter.runes[0])?.item.imageUrl
-          }` || null,
-        cards: Object.keys(fighter.charms).map((part) => {
-          const partValue = combo.get(part)?.split('-')[1] ?? 'unknown';
-          const partClass = combo.get(part)?.split('-')[0] ?? 'unknown';
-          // console.log(partClass)
-
-          const card = cards.find(
-            (card) =>
-              card.partValue === Number(partValue) &&
-              card.partClass.toLocaleLowerCase() === partClass &&
-              card.partType.toLocaleLowerCase() === part
-          );
-
-          if (card === undefined) {
-            console.log(`Card not found for ${partClass} ${part} ${partValue}`);
-          }
-
-          const charmIndex = charms.findIndex(
-            (charm) => charm.item.id === fighter.charms[part as keyof typeof fighter.charms]
-          )
-
-          return {
-            partId: partValue,
-            charm: charms[charmIndex]?.item.imageUrl || null,
-            name: card?.name || `${partClass} ${part}`,
-            part: part,
-            class: partClass,
-            // description: card.description,
-            // energy: card.energy,
-            // attack: card.attack,
-            // defense: card.defense,
-            // healing: card.healing,
-            // abilityType: card.abilityType,
-            // level: card.level,
-            // tags: card.tags,
-          };
-        }),
-      };
+        ...fighter,
+        cards,
+        rune,
+      }
     });
+
     setFighters(fighters);
   }, [props.fighters, setFighters]);
 
@@ -81,6 +73,11 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
     <div className={styles.cardset} >
       {fighters.length > 0 &&
         fighters.map((fighter, index) => {
+          // check for starter axies, if found, skip
+          if (fighter.axie_id < 15) {
+            return null;
+          }
+
           return (
             <div
               className={styles.cardset__container}
@@ -93,12 +90,10 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
 
                 {/* Axie Class */}
                 <Image
-                  src={`https://cdn.axieinfinity.com/marketplace-website/asset-icon/class/${fighter.combo.get(
-                    'body-class'
-                  )}.png`}
+                  src={`https://cdn.axieinfinity.com/marketplace-website/asset-icon/class/${fighter.gene['body-class']}.png`}
                   width={20}
                   height={20}
-                  alt={fighter.combo.get('body-class') ?? 'unknown'}
+                  alt={fighter.gene['body-class'] ?? 'unknown'}
                 />
 
                 {/* Axie Rune */}
@@ -106,8 +101,18 @@ export const Cardset = (props: { fighters: IFigthersProps[] }) => {
               </div>
               <div className={styles.cardset__cards}              >
                 {fighter.cards.map((card, cardIndex) => {
+                  // check for unknown cards, if found, skip
+                  if (card.name.includes('unknown')) {
+                    return null;
+                  }
+
+                  // TODO: fix japan, summer, xmas cards and genes
+                  if (card.name.includes('japan') || card.name.includes('summer') || card.name.includes('xmas')) {
+                    return null;
+                  }
+
                   return (
-                    <div 
+                    <div
                       className={styles.cardset__card}
                       style={{ zIndex: cardIndex + 1 }}
                       key={`fighter-${index}-card-${cardIndex}`}

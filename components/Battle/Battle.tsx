@@ -1,13 +1,12 @@
-import { Cardset } from "../Cardset/Cardset";
+import { IGetBattleData } from "@/lib/interfaces";
+import { Cardset } from "@/components/Cardset/Cardset";
 import styles from './Battle.module.css';
-import { IBattleData } from "./interfaces";
 
-interface BattleProps {
-  battle: IBattleData | null
+export interface BattleProps {
+  battle: IGetBattleData | null
 }
 
 export default function BattleOverlay({ battle }: BattleProps) {
-
 
   if (!battle) {
     return (
