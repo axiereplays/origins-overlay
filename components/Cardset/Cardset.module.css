@@ -1,0 +1,79 @@
+.cardset {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.cardset__container {
+  padding-bottom: 25px;
+  width: 100%;
+  height: 33.34%;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.cardset__fighter {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  margin: 0px;
+  width: 163px;
+  background: rgba(244, 239, 215, 0.8);
+  padding-bottom: 30px;
+  padding-right: 8px;
+  box-sizing: border-box;
+  font-size: 0.9rem;
+  text-align: right;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 25px;
+  padding-top: 2px;
+  align-items: center;
+}
+
+.cardset__fighter span {
+  line-height: 1;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #000;
+}
+
+.cardset__cards {
+  width: 100%;
+  height: 100%;
+}
+
+.cardset__card {
+  width: 100%;
+  overflow: visible;
+  height: 16.67%;
+  position: relative;
+}
+
+.cardset__card__name {
+  position: absolute;
+  top: 45px;
+  left: 60px;
+  margin: 0px;
+  display: block;
+  padding-top: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+  line-height: 1;
+  padding: 4px 4px;
+  color: #000;
+  background: rgba(244, 239, 215, 0.8);
+  border-radius: 15px;
+}
+
+.cardset__card__charm {
+  position: absolute;
+  top: 41px;
+  right: 8px;
+}

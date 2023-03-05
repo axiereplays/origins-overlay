@@ -1,10 +1,10 @@
 import { GetServerSideProps } from 'next';
-import BattleComponent from '../components/Battle/Battle';
-import getBattle from '../components/Battle/getBattles';
+import BattleOverlay from '../components/Battle/Battle';
+import getBattle from '../lib/getBattles';
 import { IBattleData } from '../components/Battle/interfaces';
 
-export default function BattlePage(props: { battle: IBattleData | null }) {
-  return (<BattleComponent battle={props.battle} />);
+export default function Page(props: { battle: IBattleData | null }) {
+  return (<BattleOverlay battle={props.battle} />);
 }
 
 export const getServerSideProps: GetServerSideProps = async (context) => {

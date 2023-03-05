@@ -18,6 +18,7 @@ export interface IBattleData {
   client_ids: string[];
   first_client_fighters: IFighter[];
   second_client_fighters: IFighter[];
+  ended_time: number;
 }
 
 export interface IGetBattleData {
@@ -34,7 +35,7 @@ export interface IGetBattleData {
   rewards: string;
   delta_rewards: string;
   user_ranks: string;
-  started_time: string;
+  started_time: number;
   ended_time: string;
   old_mmr: number;
   new_mmr: number;

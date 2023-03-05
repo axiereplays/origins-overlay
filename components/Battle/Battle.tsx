@@ -1,18 +1,15 @@
-import { useState, useEffect } from "react";
 import { Cardset } from "../Cardset/Cardset";
 import styles from './Battle.module.css';
-import { BattleTitle } from "./BattleTitle";
 import { IBattleData } from "./interfaces";
 
-export default function BattleComponent(props: { battle: IBattleData | null }) {
-  const [battle, setBattle] = useState<null | IBattleData>(null);
+interface BattleProps {
+  battle: IBattleData | null
+}
 
-  useEffect(() => {
-    setBattle(props.battle);
-    console.log(props.battle);
-  }, [props.battle]);
+export default function BattleOverlay({ battle }: BattleProps) {
 
-  if (battle === null) {
+
+  if (!battle) {
     return (
       <div className={styles.container}>
         <div className={styles.header}>
@@ -22,12 +19,19 @@ export default function BattleComponent(props: { battle: IBattleData | null }) {
               fontWeight: 600,
             }}
           >
-            Loading...
+            Battle not found
           </h2>
         </div>
       </div>
     );
   }
+
+  // Calculate the time difference in milliseconds
+  var timeDiff = Math.abs(new Date().getTime() - battle.ended_time);
+
+  // Calculate the time difference in hours and minutes
+  var diffHours = Math.floor(timeDiff / 3600000);
+  var diffMinutes = Math.floor((timeDiff % 3600000) / 60000);
 
   return (
     <div className={styles.container}>
@@ -38,20 +42,15 @@ export default function BattleComponent(props: { battle: IBattleData | null }) {
             fontWeight: 600,
           }}
         >
-          {battle && (
-            <BattleTitle>
-              <>{battle.battle_uuid}</>
-            </BattleTitle>
-          )}
+          {/* display the date difference between the battle and now */}
+          Played {diffHours < 1 ? diffMinutes + ' minutes ago' : diffHours + ' hours and ' + diffMinutes + ' minutes ago'}
         </h2>
       </div>
-      {/* <div className={styles.subheader}></div> */}
+
       <div className={styles.left}>
-        {/* TODO: fix wrong side sometimes */}
         {battle && <Cardset fighters={battle.first_client_fighters} />}
       </div>
       <div className={styles.right}>
-        {/* TODO: fix wrong side sometimes */}
         {battle && <Cardset fighters={battle.second_client_fighters} />}
       </div>
       {/* <div className={styles.center}></div> */}
