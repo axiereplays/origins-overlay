@@ -1,6 +1,6 @@
 {
   "name": "cards-web-overlays",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,8 +8,14 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "author": {
+    "name": "Alex Pedersen",
+    "email": "hello@alexpedersen.dev"
+  },
+  "type": "module",
+  "license": "CC-BY-SA-4.0",
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=18.0.0"
   },
   "dependencies": {
     "@axieinfinity/mixer": "^1.2.0",
