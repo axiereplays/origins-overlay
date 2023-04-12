@@ -13,7 +13,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
       <meta name="description" content="This is a web overlay meant to generate a web overlay for axie infinity origins battle replays, it can create an overlay with battle axies, cards, runes and charms." key="desc" />
       <meta property="og:title" content="Axie Replays - Origins overlay" />
       <meta property="og:description" content="This is a web overlay meant to generate a web overlay for axie infinity origins battle replays, it can create an overlay with battle axies, cards, runes and charms." />
-      <meta property="og:image" content="https://origins-overlay.alexpedersen.dev/apple-icon.png" />
+      <meta property="og:image" content="https://origins-overlay.alexpedersen.dev/obs_composed.png" />
       <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png" />
       <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png" />
       <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png" />
