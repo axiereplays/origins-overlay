@@ -74,7 +74,7 @@ export async function fetchUserBattleLog(
       `https://api-gateway.skymavis.com/x/origin/battle-history?type=pvp&client_id=${userID}&limit=${limit}&page=${page}}`,
       {
         headers: {
-          'X-API-Key': withAPIKey || process.env.SKYMAVIS_API_KEY!,
+          'X-API-Key': withAPIKey || process.env.SKIMAVIS_DAPP_KEY!,
           accept: 'application/json'
         }
       }
@@ -95,7 +95,7 @@ export default async function getUserBattleData(battleId: string, userId: string
 
   // get user battles from the skymavis api, iterate over it until we find the battle we want with the given battleId
   let page = 1;
-  let battleLog = await fetchUserBattleLog(userId, 100, page, process.env.NEXT_PUBLIC_SKYMAVIS_API_KEY);
+  let battleLog = await fetchUserBattleLog(userId, 100, page);
   if (!battleLog) {
     console.log(`Battle ${battleId} not found`);
     return null;
@@ -104,7 +104,7 @@ export default async function getUserBattleData(battleId: string, userId: string
   let battleData = battleLog.find((battle) => battle.battle_uuid === battleId);
   while (!battleData && battleLog.length > 0) {
     page++;
-    battleLog = await fetchUserBattleLog(userId, 100, page, process.env.NEXT_PUBLIC_SKYMAVIS_API_KEY);
+    battleLog = await fetchUserBattleLog(userId, 100, page);
     if (!battleLog) {
       console.log(`Battle ${battleId} not found`);
       return null;

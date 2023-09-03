@@ -6,7 +6,8 @@ import charmsData from './charms.json';
 import cardsData from './cards.json';
 import { Fighter } from '@/lib/getUserBattleData';
 import { AxieBodyStructure, getAxieBodyStructure512 } from '@axieinfinity/mixer';
-const ORIGINS_CARDS_BASE_URL = 'https://cdn.axieinfinity.com/game/origin-cards/base/origin-cards-20230308';
+
+const ORIGINS_CARDS_BASE_URL = 'https://cdn.axieinfinity.com/game/origin-cards/base/origin-cards-20230726';
 export interface ICard {
   name: string | undefined;
   charm: string | null;
@@ -25,7 +26,7 @@ export const Cardset = (props: { fighters: Fighter[] }) => {
   const [fighters, setFighters] = useState<IAxieFighter[]>([]);
 
   useEffect(() => {
-    async function parseFighter() {
+    async function parseAxieFighter() {
       // an array of 3 fighters/axies
       let fighters: IAxieFighter[] = [];
 
@@ -39,7 +40,6 @@ export const Cardset = (props: { fighters: Fighter[] }) => {
         const { gene, charms } = fighter;
         // parse the fighter body from gene
         const body = getAxieBodyStructure512(gene);
-        // console.log(body)
 
         // loop through the body parts, and find the card for each part
         const cards: IAxieFighter['cards'] = Object.keys(body.parts).map((partName) => {
@@ -48,7 +48,6 @@ export const Cardset = (props: { fighters: Fighter[] }) => {
           // value should be 2 digits
           const partValue = part.groups[0].value < 10 ? `0${part.groups[0].value}` : part.groups[0].value.toString();
           const partClass = part.groups[0].class.toLocaleLowerCase() || 'unknown';
-          // console.log(partClass)
 
           const card = cardsItems.find(
             (card) =>
@@ -95,18 +94,13 @@ export const Cardset = (props: { fighters: Fighter[] }) => {
       setFighters(fighters);
     }
 
-    parseFighter();
+    parseAxieFighter();
 
-  }, [props.fighters, setFighters]);
+  }, []);
 
   return (
     <div className={styles.cardset} >
       {fighters.length > 0 && fighters.map((fighter, index) => {
-        // ?? check for starter axies, if found, skip
-        // if (fighter.axie_id < 15) {
-        //   return null;
-        // }
-
         return (
           <div
             className={styles.cardset__container}
@@ -130,17 +124,6 @@ export const Cardset = (props: { fighters: Fighter[] }) => {
             </div>
             <div className={styles.cardset__cards}              >
               {fighter.cards && fighter.cards.map((card, cardIndex) => {
-                console.log(card.name);
-                // // check for unknown cards, if found, skip
-                // if (card.name.includes('unknown')) {
-                //   return null;
-                // }
-
-                // // TODO: fix japan, summer, xmas cards and genes
-                // if (card.name.includes('japan') || card.name.includes('summer') || card.name.includes('xmas')) {
-                //   return null;
-                // }
-
                 return (
                   <div
                     className={styles.cardset__card}
